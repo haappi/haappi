@@ -1,4 +1,8 @@
 ### Hi there 👋
+![haappi's GitHub stats](https://github-readme-stats.vercel.app/api?username=haappi&show_icons=true&theme=nightowl&count_private=true))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haappi&theme=nightowl&count_private=true))](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=haappi&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **haappi/haappi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
