@@ -5,11 +5,6 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=haappi&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="haappi's GitHub Stats" />
     </td>
-    <td align="center">
-      <a href="https://wakatime.com/@haappi">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=haappi&hide_title=true&layout=compact&langs_count=6&hide_progress=true&display_format=percent" alt="haappi's WakaTime Stats" />
-      </a>
-    </td>
   </tr>
 </table>
 
