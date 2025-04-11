@@ -1,7 +1,9 @@
 <h1 align="center">✨ Welcome to my GitHub ✨</h1>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=haappi&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="haappi's GitHub Stats" />
 
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haappi&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="haappi's GitHub Stats" />
+</p>
 
 <hr/>
 
