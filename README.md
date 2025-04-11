@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=haappi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true" alt="haappi's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=haappi&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="haappi's GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://wakatime.com/@haappi">
