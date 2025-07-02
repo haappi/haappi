@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-3f5f7f?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-6c7ea4?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-dd0031?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-b5352b?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-5c4ee5?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-a2352a?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
